@@ -19,3 +19,8 @@ int main() {
 var myVar = "Hello, world!";
 ```
 
+add a task list
+- [ ] finish this github short course
+- [ ] improve my english skills
+- [ ] go on with my proposal
+
