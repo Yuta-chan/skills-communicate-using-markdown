@@ -19,3 +19,9 @@ int main() {
 var myVar = "Hello, world!";
 ```
 
+Now I add a task list
+- [ ] study japanese
+- [ ] continue with phd proposal
+- [ ] add to my hobbies programming
+- [ ] create my portfolio
+
