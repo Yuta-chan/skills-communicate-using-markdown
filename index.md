@@ -25,3 +25,12 @@ add a task list
 - [ ] go on with my proposal
 
 adding something
+Now I add a task list
+- [ ] study japanese
+- [ ] continue with phd proposal
+- [ ] add to my hobbies programming
+- [ ] create my portfolio
+
+Add something in the develop branch
+
+And another thing.
